@@ -1,0 +1,57 @@
+	/* *************************** MEDIA ***********************************/
+	@media (max-width: 540px){
+		.formulario{
+			height: auto;
+			width: 400px;
+		}
+
+			}
+
+
+
+
+	@media (max-width: 400px){
+		
+		.formulario{
+		height: auto;
+		width: 300px;
+		}
+
+		.forms{
+			width: 100%;
+		}
+
+		.forms label{
+			/*display: block;*/
+		}
+		input{
+			display: inline;
+			float: none;
+		}
+
+		label{
+			display: block;
+			float: none;
+			text-align: center;
+		}
+
+		input, .centrar{
+			float: none !important;
+			margin: 0 auto;
+			text-align: center;
+		}
+
+		.forms{
+			float: none;
+			margin: 0 auto;
+			text-align: center;
+		}
+		.ocultar{
+			display:none;
+		}
+
+
+	}
+
+
+	/* *********************************************************************/

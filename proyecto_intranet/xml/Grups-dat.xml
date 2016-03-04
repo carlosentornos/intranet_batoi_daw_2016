@@ -1,0 +1,64 @@
+<?xml version="1.0"?><centro codigo="03012165" denominacion="CIPFP BATOI" curso="2015" fechaExportacion="23/11/2015 20:37:18" version="1.0">  
+    <grupos>    
+        <grupo codigo="2CFBA" nombre="2nFPB PERRUQUERIA I ESTETICA" ensenanza="5" linea="3" turno="D" modalidad="COM" aula="44" capacidad="25" tutor_ppal="076342167D" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="1CFSP" nombre="1R CFS DIREC. CUINA" ensenanza="5" linea="3" turno="D" modalidad="COM" aula="24" capacidad="50" tutor_ppal="076342167D" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="2CFSW" nombre="2N CFS DAW" ensenanza="5" linea="3" turno="D" modalidad="COM" aula="34" capacidad="30" tutor_ppal="076342167D" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="2CFBB" nombre="2nFPB INFORMATICA OFICINA" ensenanza="5" linea="3" turno="D" modalidad="COM" aula="45" capacidad="25" tutor_ppal="076342167D" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="1CFSQ" nombre="1R CFS TASOC LOGSE" ensenanza="5" linea="3" turno="D" modalidad="COM" aula=" " capacidad="25" tutor_ppal="076342167D" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="2CFMR" nombre="2N CFM SERV.RESTAURA" ensenanza="5" linea="3" turno="D" modalidad="COM" aula="22" capacidad="60" tutor_ppal="076342167D" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="2CFMQ" nombre="2N CFM CUINA -MATI-" ensenanza="5" linea="3" turno="D" modalidad="COM" aula="25" capacidad="60" tutor_ppal="076342167D" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="2CFSS" nombre="2N CFS ASIX" ensenanza="5" linea="3" turno="D" modalidad="COM" aula="38" capacidad="50" tutor_ppal="076342167D" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="1CFMS" nombre="1R CFM CUINA -V-" ensenanza="5" linea="3" turno="D" modalidad="COM" aula="24" capacidad="60" tutor_ppal="076342167D" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="2CFST" nombre="2N CFS LAB.DIAGN.CLINIC" ensenanza="5" linea="3" turno="D" modalidad="COM" aula="6" capacidad="60" tutor_ppal="076342167D" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="2CFMU" nombre="2N CUINA -VESPRADA-" ensenanza="5" linea="3" turno="D" modalidad="COM" aula="25" capacidad="50" tutor_ppal="076342167D" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="1CFSO" nombre="1R CFS ESTET.INTEGRA" ensenanza="5" linea="3" turno="D" modalidad="COM" aula="3" capacidad="50" tutor_ppal="076342167D" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="1CFMA" nombre="1R CFM CAE MATI" ensenanza="5" linea="3" turno="D" modalidad="COM" aula="10" capacidad="50" tutor_ppal="026738333T" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="1CFMB" nombre="1R CFM CAE VESPRADA" ensenanza="5" linea="3" turno="D" modalidad="COM" aula="10" capacidad="50" tutor_ppal="026738333T" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="1CFSB" nombre="1R CFS ADM. I FINANC" ensenanza="5" linea="3" turno="D" modalidad="COM" aula="28" capacidad="60" tutor_ppal="026738333T" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="2CFSB" nombre="2N CFS ADM.I FINANC" ensenanza="5" linea="3" turno="D" modalidad="COM" aula="33" capacidad="50" tutor_ppal="026738333T" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="2CFMB" nombre="2N CFM GESTIO ADMINI" ensenanza="5" linea="3" turno="D" modalidad="COM" aula="33" capacidad="60" tutor_ppal="026738333T" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="1CFSF" nombre="1R CFS IMATGE DIAG-V" ensenanza="5" linea="3" turno="D" modalidad="COM" aula="11" capacidad="60" tutor_ppal="026738333T" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="2CFSE" nombre="2N CFS SALUT AMBIENTAL" ensenanza="5" linea="3" turno="D" modalidad="COM" aula="6" capacidad="50" tutor_ppal="026738333T" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="2CFSF" nombre="2N CFS IMAT. DIAG. V" ensenanza="5" linea="3" turno="D" modalidad="COM" aula="13" capacidad="60" tutor_ppal="026738333T" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="1CFSC" nombre="1R CFS ASIX" ensenanza="5" linea="3" turno="D" modalidad="COM" aula="37" capacidad="50" tutor_ppal="026738333T" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="1CFMC" nombre="1R GESTIÓ ADMINISTR." ensenanza="5" linea="3" turno="D" modalidad="COM" aula="28" capacidad="60" tutor_ppal="026738333T" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="2CFMC" nombre="FCT CFM CAE -V-" ensenanza="5" linea="3" turno="D" modalidad="COM" aula="999" capacidad="50" tutor_ppal="026738333T" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="2CFMA" nombre="FCT CFM CAE -M-" ensenanza="5" linea="3" turno="D" modalidad="COM" aula="999" capacidad="60" tutor_ppal="026738333T" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="1CFMF" nombre="1R CFM ESTÈTICA" ensenanza="5" linea="3" turno="D" modalidad="COM" aula="3" capacidad="70" tutor_ppal="026738333T" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="2CFMI" nombre="FCT CFM ESTETICA" ensenanza="5" linea="3" turno="D" modalidad="COM" aula="999" capacidad="50" tutor_ppal="026738333T" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="1CFMG" nombre="1R CFM PERRUQUERIA" ensenanza="5" linea="3" turno="D" modalidad="COM" aula="1" capacidad="60" tutor_ppal="026738333T" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="1CFMH" nombre="1R CFM SMX -A" ensenanza="5" linea="3" turno="D" modalidad="COM" aula="36" capacidad="50" tutor_ppal="026738333T" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="1CFSG" nombre="1R CFS DAM" ensenanza="5" linea="3" turno="D" modalidad="COM" aula="36" capacidad="50" tutor_ppal="026738333T" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="2CFMJ" nombre="2N CFM PERRUQ.COSMET." ensenanza="5" linea="3" turno="D" modalidad="COM" aula="2" capacidad="50" tutor_ppal="026738333T" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="1CFMI" nombre="1R CFM SMX -B" ensenanza="5" linea="3" turno="D" modalidad="COM" aula="35" capacidad="40" tutor_ppal="026738333T" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="2CFSL" nombre="2N CFS DAM" ensenanza="5" linea="3" turno="D" modalidad="COM" aula="35" capacidad="35" tutor_ppal="026738333T" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="2CFMK" nombre="2N CFM SMX -A-" ensenanza="5" linea="3" turno="D" modalidad="COM" aula="37" capacidad="40" tutor_ppal="026738333T" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="2CFML" nombre="2N CFM SMX -B-" ensenanza="5" linea="3" turno="D" modalidad="COM" aula="38" capacidad="40" tutor_ppal="026738333T" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="1CFMJ" nombre="1R CFM APD -M-" ensenanza="5" linea="3" turno="D" modalidad="COM" aula="18" capacidad="60" tutor_ppal="026738333T" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="1CFSE" nombre="1R CFS SALUT AMBIENTAL" ensenanza="5" linea="3" turno="D" modalidad="COM" aula="7" capacidad="60" tutor_ppal="026738333T" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="2CFMM" nombre="2N CFM APD -M-" ensenanza="5" linea="3" turno="D" modalidad="COM" aula="16" capacidad="60" tutor_ppal="026738333T" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="1CFML" nombre="1R CFM APD -V-" ensenanza="5" linea="3" turno="D" modalidad="COM" aula="18" capacidad="60" tutor_ppal="026738333T" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="2CFMN" nombre="2N CFM APD -V-" ensenanza="5" linea="3" turno="D" modalidad="COM" aula="14" capacidad="60" tutor_ppal="026738333T" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="1CFSH" nombre="1R CFS IMATG DIAGN-M" ensenanza="5" linea="3" turno="D" modalidad="COM" aula="11" capacidad="60" tutor_ppal="026738333T" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="2CFSM" nombre="2N CFS IMAT. DIAG. M" ensenanza="5" linea="3" turno="D" modalidad="COM" aula="13" capacidad="60" tutor_ppal="026738333T" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="2CFSN" nombre="2N CFS ESTET.INTEGRAL" ensenanza="5" linea="3" turno="D" modalidad="COM" aula="4" capacidad="50" tutor_ppal="026738333T" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="1CFMN" nombre="1R CFM CUINA -M-" ensenanza="5" linea="3" turno="D" modalidad="COM" aula="24" capacidad="60" tutor_ppal="026738333T" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="1CFMP" nombre="1R CFM SERV. RESTAUR" ensenanza="5" linea="3" turno="D" modalidad="COM" aula="21" capacidad="55" tutor_ppal="026738333T" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="1CFSJ" nombre="1R CFS LAB.DIAG.CLIN" ensenanza="5" linea="3" turno="D" modalidad="COM" aula="9" capacidad="60" tutor_ppal="026738333T" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="1CFSK" nombre="1R CFS EDUC.INFANT.M" ensenanza="5" linea="3" turno="D" modalidad="COM" aula="19" capacidad="80" tutor_ppal="026738333T" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="1CFSL" nombre="1R CFS EDUC.INFANT.V" ensenanza="5" linea="3" turno="D" modalidad="COM" aula="17" capacidad="80" tutor_ppal="026738333T" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="1CFSM" nombre="1R CFS ANIMAC. SOCIO" ensenanza="5" linea="3" turno="D" modalidad="COM" aula="16" capacidad="60" tutor_ppal="026738333T" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="2CFSO" nombre="2N CFS EDUCAC.INF.-V" ensenanza="5" linea="3" turno="D" modalidad="COM" aula="19" capacidad="60" tutor_ppal="026738333T" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="2CFSP" nombre="2N CFS EDUCAC.INF.-M" ensenanza="5" linea="3" turno="D" modalidad="COM" aula="17" capacidad="60" tutor_ppal="026738333T" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="2CFSQ" nombre="FCT CFS ANIM.SOCIOCULTURAL" ensenanza="5" linea="3" turno="D" modalidad="COM" aula="999" capacidad="60" tutor_ppal="026738333T" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="2CFBC" nombre="2n FPB CUINA I RESTAURACIO" ensenanza="5" linea="3" turno="D" modalidad="COM" aula="23" capacidad="25" tutor_ppal="026738333T" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="1CFMR" nombre="1R CFM CAE SEMIPR.-B" ensenanza="5" linea="3" turno="S" modalidad="COM" aula="29" capacidad="200" tutor_ppal="026738333T" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="1CFSN" nombre="1R CFS IMAT.DIAG.SEMIPRESENCI" ensenanza="5" linea="3" turno="S" modalidad="COM" aula="26" capacidad="200" tutor_ppal="026738333T" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="1CFMT" nombre="1R CFM APD SEMIPRESENCIAL" ensenanza="5" linea="3" turno="S" modalidad="COM" aula="29" capacidad="99" tutor_ppal="026738333T" tutor_sec="079150381K" oficial="S"/>    
+        <grupo codigo="2CFSU" nombre="2N CFS IMAT.DIAGN.SEMIPRESENC" ensenanza="5" linea="3" turno="S" modalidad="COM" aula="26" capacidad="150" tutor_ppal="026738333T" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="2CFMW" nombre="2N FCT CFM CAE SEMI-B-" ensenanza="5" linea="3" turno="S" modalidad="COM" aula="999" capacidad="54" tutor_ppal="026738333T" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="2CFMV" nombre="2N FCT CFM CAE SEMI-A-" ensenanza="5" linea="3" turno="S" modalidad="COM" aula="999" capacidad="200" tutor_ppal="026738333T" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="2CFMT" nombre="2N CFM APD SEMIPRESENCIAL" ensenanza="5" linea="3" turno="S" modalidad="COM" aula="26" capacidad="54" tutor_ppal="026738333T" tutor_sec=" " oficial="S"/>    
+        <grupo codigo="1CFMQ" nombre="1R CFM CAE SEMIPR. A" ensenanza="5" linea="3" turno="S" modalidad="COM" aula="29" capacidad="200" tutor_ppal="026738333T" tutor_sec=" " oficial="S"/>  
+    </grupos>
+</centro>

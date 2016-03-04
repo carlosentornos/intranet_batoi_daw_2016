@@ -1,0 +1,92 @@
+
+/* *************************** MEDIA ***********************************/
+
+
+@media (max-width: 760px){
+    .formularionormal{
+    background-color: red;
+    width: 98%;
+    }
+
+    .contenedor{
+    width: 98%;
+    padding: 2px 2px;
+    }
+
+    #cabecera{
+    width: 98%;
+    }
+
+    #pie{
+    width: 98%;
+    }
+
+    .automodificado{
+    width: 98%;
+    }
+}
+
+
+
+
+/*************************************************************************/
+@media (max-width: 565px){
+    .formularionormal{
+    width: 300px;
+
+    }
+
+    .contenedor{
+    width: 290px;
+
+    }
+
+    #cabecera{
+    width: 300px;
+    background-image: url("cabecera3.jpg");
+    }
+
+    #pie{
+    width: 300px;
+    }
+
+    label{
+    text-align: center;
+    }
+
+    #sesion{
+
+    margin-top: 80px;
+    width: 100px;
+
+    font-size: 13px;
+
+    }
+
+    .automodificado{
+
+    width: 300px;
+    }
+
+    .contenedor input{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    float: none;             
+    }
+
+    .contenedor label{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    float: none;
+    margin-top: 5px;
+    }
+
+    .eliminar{
+    display: none;
+    }
+
+}
+
+/* *********************************************************************/

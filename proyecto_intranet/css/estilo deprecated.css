@@ -1,0 +1,151 @@
+/* ********************** CABECERA Y PIE ************************ */
+
+header {
+	max-width: 1400px;
+}
+
+#cabecera{
+	margin: 0 auto;
+	height: 149px;/*alto*/
+	width: 90%;
+	background-image: url("cabecera.jpg");
+	background-repeat: no-repeat;
+	border: 2px solid #2B929A;
+
+}
+
+#sesion{
+	border: 1px solid black;
+	height: 40%;/*alto*/
+	width: 10%;
+	float: right;
+	margin-right: 5px;
+	margin-top: 5px;
+	background-color: white;
+}
+
+#pie{
+	border: 2px solid #2B929A;
+	width: 90%;
+	background-color: #EFF5FB;
+	margin: 0 auto;
+
+}
+
+/**********************************************************/
+
+/***********************  GENERAL  ************************/
+
+body{
+	background-color: #A9BCF5;
+	font-size: 15px;
+}
+
+h1, h2, h3, h4, h5, h6{
+	color: #2B929A;
+}
+
+.centrado{
+	margin: 0 auto;
+}
+/**********************************************************/
+
+/* ******************* FORMULARIOS ********************* */
+
+.formularionormal{
+	text-align: left;
+	border: 2px solid #2B929A;
+	background-color: #EFF5FB;
+	height: 600px;
+	width: 90%;
+	margin: 0 auto;
+}
+
+.formularionormal input{
+	width: 200px;
+	height: 19px;
+	float: right;
+}
+
+
+.contenedor{
+	width: 600px;
+	height: 600px;
+	margin: 0 auto;
+}
+
+
+
+
+
+.formulario{
+	text-align: left;
+	border: 2px solid #2B929A;
+	background-color: #EFF5FB;
+	height: 342px;
+	width: 500px;
+	margin: 0 auto;
+}
+/**********************************************************/
+
+
+/* ********************* PIJADAS ******************* */
+
+hr{
+	color: #2B929A;
+	height: 1px;
+}
+
+.boton{
+	margin-top: 20px;
+	margin-bottom: 4px;
+	border: none;
+	border-radius: 5px;
+	width: 100%;
+	height: 40px;
+	background-color: #2B929A;
+	color: white;
+	padding: 10px 10px;
+}
+
+/* **************************************************** */
+
+form{
+	height: 90%;
+	margin: 0 auto;
+}
+
+div{
+margin: .4em 0;
+
+}
+.forms{
+	margin: 0.4em auto;
+	width: 350px;
+}
+
+
+.forms label{
+	margin-top: 13px;
+	width: 25%;
+  	float: left; 
+  	text-align: left;
+}
+
+#envoltorio{
+	width: 100%;
+	height: 100%;
+
+}
+
+input{
+	width: 200px;
+	height: 28px;
+	float: right;
+}
+
+.formularionormal input{
+	width: 200px;
+	height: 19px;
+	float: right;
+}

@@ -1,0 +1,21 @@
+@media (max-width: 730px){
+	h1, h2, h3, h4{
+		color: red !important;
+	}
+
+	.titulo_error , .contenedor{
+		width: 90%;
+	}
+
+	.error_apache{
+		background-image: none !important;
+	}
+	.titulo_error{
+		background-color: none !important;
+	}
+	.titulo_error:hover{
+		background-color: none !important;
+	}
+
+
+}

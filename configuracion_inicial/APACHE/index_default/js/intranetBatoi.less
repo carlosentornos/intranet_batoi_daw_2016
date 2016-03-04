@@ -1,0 +1,40 @@
+
+@font-body: Arial, Verdana, Times;
+@font-body-size: 1em;
+@background-color: #B9E8FE;
+
+/* establecer fuente tipo de letra para todo el documento */
+html, body {
+	font-family: @font-body;
+	font-size: @font-body-size;
+	background-color: @background-color;
+}
+
+@h1-color-text: navy;
+@h2-color-text: blue;
+
+h1 {
+	color: @h1-color-text;
+}
+
+h2 {
+	color: @h2-color-text;
+}
+
+@table-border-radius: 5px;
+@table-background-color: pink;
+@table-border: 2px solid black;
+
+table {
+	border-radius: @table-border-radius;
+	border: @table-border;
+	background-color: @table-background-color;
+}
+
+@table-tr-td-color: yellow;
+@table-tr-td-background-color: purple;
+
+table tr td:hover {
+	color: @table-tr-td-color;
+	background-color: @table-tr-td-background-color;
+}

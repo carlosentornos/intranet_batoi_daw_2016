@@ -1,0 +1,16 @@
+AuthBasicAuthoritative Off
+AuthUserFile /dev/null
+AuthMysql On
+AuthName "ACCESO - MySQL - FOTOS"
+AuthType Basic
+Auth_MySQL_Host localhost
+Auth_MySQL_User apacheadmin
+Auth_MySQL_Password 1234
+AuthMySQL_DB apache_mysql
+AuthMySQL_Password_Table usuarios
+Auth_MySQL_Username_Field nombre
+Auth_MySQL_Password_Field contrasenya
+Auth_MySQL_Empty_Passwords Off
+Auth_MySQL_Encryption_Types Crypt
+Auth_MySQL_Authoritative Off
+require valid-user

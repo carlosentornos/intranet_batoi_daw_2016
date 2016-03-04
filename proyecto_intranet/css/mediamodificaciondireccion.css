@@ -1,0 +1,152 @@
+
+/* *************************** MEDIA ***********************************/
+
+
+@media (max-width: 760px){
+    .formularionormal{
+        background-color: red;
+        width: 98%;
+    }
+
+    .contenedor{
+        width: 98%;
+        padding: 2px 2px;
+    }
+
+    #cabecera{
+        width: 98%;
+    }
+
+    #pie{
+        width: 98%;
+    }
+
+    .automodificado{
+        width: 98%;
+    }
+
+    #form{
+        width: 85%;
+    }
+
+    .salto{
+        display: inline-block;
+    }
+
+    #contenedorWebcam{
+        background-color: red;
+        position: relative;
+    }
+
+    #botonCamara{
+        position: absolute;
+        top:50px;
+        background-color: white;
+        margin: 0 auto;
+        left: 310px;
+    }
+
+}
+
+/*************************************************************************/
+
+@media (max-width: 700px){
+    #contenedorWebcam{
+        background-color: orange;
+    }
+
+    #botonCamara{
+
+        background-color: white;
+        margin: 0 auto;
+        left: 315px;
+    }
+}
+
+
+/*************************************************************************/
+
+@media (max-width: 650px){
+    #contenedorWebcam{
+        background-color: red;
+
+    }
+
+    #botonCamara{
+        left: 250px;
+    }
+}
+
+/*************************************************************************/
+@media (max-width: 565px){
+    .formularionormal{
+        width: 300px;
+
+    }
+
+    .contenedor{
+        width: 290px;
+
+    }
+
+    #cabecera{
+        width: 300px;
+        background-image: url("cabecera2.jpg");
+    }
+
+    #pie{
+        width: 300px;
+    }
+
+    label{
+        text-align: center;
+    }
+
+    #sesion{
+        top: 40px;
+        width: auto;
+        font-size: 13px;
+        max-width: 230px;
+    }
+
+    .automodificado{
+        width: 300px;
+    }
+
+    
+
+    .contenedor label{
+        display: block;
+        margin: 0 auto;
+        text-align: center;
+        float: none;
+        margin-top: 5px;
+    }
+
+    .contenedor select, .contenedor textarea, .contenedor input{
+        display: block;
+        margin: 0 auto;
+        text-align: center;
+        float: none;             
+    }
+
+    .eliminar{
+        display: none;
+    }
+
+      #contenedorWebcam{
+        background-color: yellow;
+        text-align: center;
+      }
+
+      #botonCamara{
+        top: 170px;
+        left: 125px;
+      }
+ 
+      .oculto{
+        display: inherit;
+      }
+}
+
+/* *********************************************************************/

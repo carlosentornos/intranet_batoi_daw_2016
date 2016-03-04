@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+    <provincias>    
+        <provincia codigo="1" nombre_cas="ÁLAVA" nombre_val="Álava"/>    
+        <provincia codigo="2" nombre_cas="ALBACETE" nombre_val="Albacete"/>    
+        <provincia codigo="3" nombre_cas="ALICANTE" nombre_val="Alacant"/>    
+        <provincia codigo="4" nombre_cas="ALMERÍA" nombre_val="Almería"/>    
+        <provincia codigo="5" nombre_cas="ÁVILA" nombre_val="Ávila"/>    
+        <provincia codigo="6" nombre_cas="BADAJOZ" nombre_val="Badajoz"/>    
+        <provincia codigo="7" nombre_cas="BALEARES (ISLAS)" nombre_val="Balears (Illes)"/>    
+        <provincia codigo="8" nombre_cas="BARCELONA" nombre_val="Barcelona"/>    
+        <provincia codigo="9" nombre_cas="BURGOS" nombre_val="Burgos"/>    
+        <provincia codigo="10" nombre_cas="CÁCERES" nombre_val="Cáceres"/>    
+        <provincia codigo="11" nombre_cas="CÁDIZ" nombre_val="Cádiz"/>    
+        <provincia codigo="12" nombre_cas="CASTELLÓN" nombre_val="Castelló"/>    
+        <provincia codigo="13" nombre_cas="CIUDAD REAL" nombre_val="Ciudad Real"/>    
+        <provincia codigo="14" nombre_cas="CÓRDOBA" nombre_val="Córdoba"/>    
+        <provincia codigo="15" nombre_cas="CORUÑA (A)" nombre_val="Coruña (A)"/>    
+        <provincia codigo="16" nombre_cas="CUENCA" nombre_val="Cuenca"/>    
+        <provincia codigo="17" nombre_cas="GIRONA" nombre_val="Girona"/>    
+        <provincia codigo="18" nombre_cas="GRANADA" nombre_val="Granada"/>    
+        <provincia codigo="19" nombre_cas="GUADALAJARA" nombre_val="Guadalajara"/>    
+        <provincia codigo="20" nombre_cas="GUIPÚZCOA" nombre_val="Guipúzcoa"/>    
+        <provincia codigo="21" nombre_cas="HUELVA" nombre_val="Huelva"/>    
+        <provincia codigo="22" nombre_cas="HUESCA" nombre_val="Huesca"/>    
+        <provincia codigo="23" nombre_cas="JAÉN" nombre_val="Jaén"/>    
+        <provincia codigo="24" nombre_cas="LEÓN" nombre_val="León"/>    
+        <provincia codigo="25" nombre_cas="LLEIDA" nombre_val="Lleida"/>    
+        <provincia codigo="26" nombre_cas="RIOJA (LA)" nombre_val="Rioja (La)"/>    
+        <provincia codigo="27" nombre_cas="LUGO" nombre_val="Lugo"/>    
+        <provincia codigo="28" nombre_cas="MADRID" nombre_val="Madrid"/>    
+        <provincia codigo="29" nombre_cas="MÁLAGA" nombre_val="Málaga"/>    
+        <provincia codigo="30" nombre_cas="MURCIA" nombre_val="Murcia"/>    
+        <provincia codigo="31" nombre_cas="NAVARRA" nombre_val="Navarra"/>    
+        <provincia codigo="32" nombre_cas="OURENSE" nombre_val="Ourense"/>    
+        <provincia codigo="33" nombre_cas="ASTURIAS" nombre_val="Asturias"/>    
+        <provincia codigo="34" nombre_cas="PALENCIA" nombre_val="Palencia"/>    
+        <provincia codigo="35" nombre_cas="PALMAS (LAS)" nombre_val="Palmas (Las)"/>    
+        <provincia codigo="36" nombre_cas="PONTEVEDRA" nombre_val="Pontevedra"/>    
+        <provincia codigo="37" nombre_cas="SALAMANCA" nombre_val="Salamanca"/>    
+        <provincia codigo="38" nombre_cas="TENERIFE" nombre_val="Tenerife"/>    
+        <provincia codigo="39" nombre_cas="CANTABRIA" nombre_val="Cantabria"/>    
+        <provincia codigo="40" nombre_cas="SEGOVIA" nombre_val="Segovia"/>    
+        <provincia codigo="41" nombre_cas="SEVILLA" nombre_val="Sevilla"/>    
+        <provincia codigo="42" nombre_cas="SORIA" nombre_val="Soria"/>    
+        <provincia codigo="43" nombre_cas="TARRAGONA" nombre_val="Tarragona"/>    
+        <provincia codigo="44" nombre_cas="TERUEL" nombre_val="Teruel"/>    
+        <provincia codigo="45" nombre_cas="TOLEDO" nombre_val="Toledo"/>    
+        <provincia codigo="46" nombre_cas="VALENCIA" nombre_val="València"/>    
+        <provincia codigo="47" nombre_cas="VALLADOLID" nombre_val="Valladolid"/>    
+        <provincia codigo="48" nombre_cas="VIZCAYA" nombre_val="Vizcaya"/>    
+        <provincia codigo="49" nombre_cas="ZAMORA" nombre_val="Zamora"/>    
+        <provincia codigo="50" nombre_cas="ZARAGOZA" nombre_val="Zaragoza"/>    
+        <provincia codigo="51" nombre_cas="CEUTA" nombre_val="Ceuta"/>    
+        <provincia codigo="52" nombre_cas="MELILLA" nombre_val="Melilla"/>    
+        <provincia codigo="53" nombre_cas="Desconocido" nombre_val="Desconegut"/>    
+        <provincia codigo="54" nombre_cas="EXTRANJERO" nombre_val="Estranger"/>    
+        <provincia codigo="60" nombre_cas="EXTRANJERO" nombre_val="Estranger"/>    
+        <provincia codigo="99" nombre_cas="N/C" nombre_val="n/c"/>  
+    </provincias>
+    
