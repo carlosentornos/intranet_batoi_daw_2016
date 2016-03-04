@@ -4,4 +4,4 @@
 
 - - -
 #Objetivo del proyecto
-Mediante lo aprendido durante el curso
+Con el presente proyecto se pretende mediante los conocimientos adquiridos llevar a cabo la construcción o creación desde cero de un servidor (el cuál tiene una mínima configuración) que contendrá los servicios necesarios así como las aplicaciones y tecnología necesaria para atender las peticiones de los usuarios.
