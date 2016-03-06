@@ -1,10 +1,18 @@
-#PROYECTO FINAL DE 2º DE DAW 2015/2016  
+#PROYECTO FINAL DE 2º DE DAW 2015/2016
+**Ponentes:**
 
-Ponentes:
-
-+ Diseño: Daniel
-+ Programación: Jose Vicente Martinez Mellado, Jose Luis Gimeno, Raúl Lara Rico
++ Diseño: Daniel Ferrándiz López
++ Programación: Jose Vicente Martinez Mellado, Jose Luis Moltó Gimeno, Raúl Lara Rico
 + Sistemas: Carlos Huelmo Vaquero.  
+
+
+**Tecnologías utilizadas:**  
+
+* Configuración del servidor: Apache, MySQL, vsFTPD, OpenSSH, Webmin.
+* Lenguajes: HTML5, Javascript, CSS 3, LESS, PHP.
+* Librerías: jQuery, jQuery UI,FPDF, FPDI.  
+
+
 
 #Objetivo del proyecto
 > Con el presente proyecto se pretende mediante los conocimientos adquiridos llevar a cabo la construcción o creación desde cero de un servidor (el cuál tiene una mínima configuración) que contendrá los servicios necesarios así como las aplicaciones y tecnología necesaria para atender las peticiones de los usuarios.  
@@ -103,4 +111,33 @@ e-mail alumnos, departamento, fecha baja, foto. Sólo pueden modificar su contra
 >
 >+ Automatización de la carga de usuarios al principio de cada curso (los datos se reciben de Itaca en ficheros XML).
 
-##Reparto del trabajo
+##Reparto del trabajo  
+
+>Cada grupo debe repartirse el trabajo como crea conveniente.  
+
+>Si el grupo lo cree conveniente se le dará más nota al coordinador o a quien haga más trabajo. En ese caso serán los miembros del grupo quienes nos digan cómo repartir las
+notas: podemos hacer que los 5 miembros tengan la nota obtenido por el grupo o bien
+que algunos miembros tengan más y menos nota partiendo de la nota del grupo como
+base, por ejemplo un alumno +0,5 puntos, otro -0,5 puntos, otro +1 punto y otro -1 punto (o de cualquier otra forma pero que siempre la media salga la nota del grupo). 
+ 
+##Tiempo para realizar el proyecto  
+>En cada módulo se dedicará un mínimo de 1 o 2 horas semanales para la realización del
+proyecto. El número de horas dedicadas al proyecto podrá incrementarse más adelante según se vayan completando los contenidos del módulo.  
+
+>En dichas horas el grupo hará el trabajo que desee, siempre relacionado con el proyecto. Se podrá consultar cualquier tipo de dudas al profesor que esté en clase en ese momento aunque no siempre será capaz de resolverlas si no es el encargado de la parte del proyecto a que corresponde la duda planteada.  
+
+##Cosas a hacer en los diferentes módulos  
+
+>Cada uno de nosotros corregiremos sólo la parte que nos toca aunque el proyecto sea
+global. Las cosas a hacer son:  
+
+>+ Despliegue: Instalación y configuración del servidor Apache. Securización del servidor. Instalación y configuración del servidor LDAP.  
++ DWServidor: creación de la BBDD y todo el backend.
++ DWCliente: creación del frontend.
++ Interfaces: estilos, accesibilidad, usabilidad, web responsive (tablets, ...).
+
+>###Módulo de Desarrollo Web en entorno Cliente
+> Daremos funcionalidad a las diferentes páginas creadas siguiendo la guía de estilo definida. Entre estas funcionalidades se incluirá:
+>+ Validación de cada formulario desde HTML5 y JavaScript.
++ Utilización de JavaScript para dar funcionalidad a las páginas.
++ Utilización de Ajax en aquellas páginas en que sea apropiado para reducir el tiempo de esperar respuesta del servidor.
