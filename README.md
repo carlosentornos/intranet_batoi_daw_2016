@@ -137,7 +137,24 @@ global. Las cosas a hacer son:
 + Interfaces: estilos, accesibilidad, usabilidad, web responsive (tablets, ...).
 
 >###Módulo de Desarrollo Web en entorno Cliente
-> Daremos funcionalidad a las diferentes páginas creadas siguiendo la guía de estilo definida. Entre estas funcionalidades se incluirá:
+>> Daremos funcionalidad a las diferentes páginas creadas siguiendo la guía de estilo definida. Entre estas funcionalidades se incluirá:
 >+ Validación de cada formulario desde HTML5 y JavaScript.
 + Utilización de JavaScript para dar funcionalidad a las páginas.
 + Utilización de Ajax en aquellas páginas en que sea apropiado para reducir el tiempo de esperar respuesta del servidor.
++ Utilización de widgets e interacciones de jQuery UI donde sea apropiado (para organizar la información en páginas o formularios con muchos datos, para introducir fechas, ...).  
+
+>***NOTA:*** lo que se pide que hagáis en JavaScript puede ser también hecho usando cualquier librería del lenguaje (como jQuery, PrototypeJS o cualquier otra).  
+
+>>A la hora de calificar el proyecto se tendrá en cuenta:  
+
+>>1.- La claridad e idioneidad del código usado.  
+
+>>2.- Que el códgio esté comentado adecuadamente.
+
+>>3.- Que no se sobrecarguen las páginas con código innecesario (por ejemplo, si una página no usa jQuery no se ha de cargar esa librería).
+
+>>4.- Que los diferentes campos de los formularios se validan correctamente.
+
+>>5.- Que se utiliza Ajax de manera adecuada en donde tiene sentido hacerlo.
+
+>>6.- Que se utiliza jQuery UI donde mejora el aspecto i/o la funcionalidad de una página.
