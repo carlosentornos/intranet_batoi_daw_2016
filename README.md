@@ -2,7 +2,7 @@
 **Ponentes:**
 
 + Diseño: Daniel Ferrándiz López
-+ Programación: Jose Vicente Martinez Mellado, Jose Luis Moltó Gimeno, Raúl Lara Rico
++ Programación: Jose Vicente Martinez Mellado, Jose Luis Moltó Gimeno, Raúl Lara Rico, Carlos Huelmo Vaquero.
 + Sistemas: Carlos Huelmo Vaquero.  
 
 
